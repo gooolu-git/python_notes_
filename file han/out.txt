@@ -1,0 +1,8 @@
+ram-->2
+aam-->2
+kaha-->1
+khata-->2
+hai-->1
+aur-->1
+kela-->1
+bhi-->1
